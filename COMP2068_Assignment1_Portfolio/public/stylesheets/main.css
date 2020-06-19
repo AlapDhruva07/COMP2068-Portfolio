@@ -6,7 +6,17 @@ body {
 }
 
 
+header img {
+    padding-top: 20px;
+    height: 300px;
+    width: 300px;
+}
 
+header h1,h2
+{
+    text-align:center;
+    margin-top:20px;
+}
 
 a {
     color: #00B7FF;
