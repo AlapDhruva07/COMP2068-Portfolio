@@ -37,3 +37,26 @@ section #left
 section #right{
     padding:20px;
 }
+
+
+main img {
+    width: 100%;
+    height: 250px;
+}
+
+main p {
+    text-align:center;
+    font-weight:bold;
+}
+
+main .col {
+    padding:7px;
+}
+
+main{
+    margin-top:20px;
+}
+
+#con{
+    margin-top:20px;
+}

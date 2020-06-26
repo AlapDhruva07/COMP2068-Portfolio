@@ -11,4 +11,11 @@ router.get('/about', function (req, res) {
     res.render('about', { title: 'About Page' });
 });
 
+router.get('/project', function (req, res) {
+    res.render('project', { title: 'Project Page' });
+});
+
+router.get('/contact', function (req, res) {
+    res.render('contact', { title: 'Contact Page' });
+});
 module.exports = router;
