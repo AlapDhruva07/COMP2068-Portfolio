@@ -12,6 +12,10 @@ header img {
     width: 300px;
 }
 
+header{
+    height:500px;
+}
+
 header h1,h2
 {
     text-align:center;
@@ -29,13 +33,13 @@ section img{
 
 section #left
 {
-    padding:60px;
+    padding:80px;
     text-align:center;
     font-size:28px;
 }
 
 section #right{
-    padding:20px;
+    padding: 20px;
 }
 
 
@@ -60,3 +64,20 @@ main{
 #con{
     margin-top:20px;
 }
+
+footer{
+    background-color: darkgray;
+    height:90px;
+    width:100%;
+    text-align:center;
+    font-size:18px;
+    position:relative;
+}
+
+footer p {
+    position:absolute;
+    left:50%;
+    top:50%;
+    transform:translate(-50%,-50%);
+}
+

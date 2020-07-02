@@ -33,6 +33,7 @@
     <Content Include="public\images\dustbin.jpg" />
     <Content Include="public\images\employee.png" />
     <Content Include="public\images\metero.jpg" />
+    <Content Include="public\images\nodejs1.png" />
     <Content Include="public\images\profilePhoto.jpg" />
     <Content Include="public\images\scrable.png" />
     <Content Include="public\images\todolist.png" />
@@ -44,6 +45,8 @@
     <Content Include="views\about.pug">
       <SubType>Code</SubType>
     </Content>
+    <Content Include="public\images\android.jpg" />
+    <Content Include="public\images\apple.png" />
     <Content Include="views\contact.pug">
       <SubType>Code</SubType>
     </Content>
@@ -55,10 +58,15 @@
     </Content>
     <Content Include="views\index.pug" />
     <Content Include="views\error.pug" />
+    <Content Include="public\images\java.jpeg" />
     <Content Include="views\layout.pug">
       <SubType>Code</SubType>
     </Content>
+    <Content Include="public\images\php.png" />
     <Content Include="views\project.pug">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="views\service.pug">
       <SubType>Code</SubType>
     </Content>
   </ItemGroup>
